@@ -36,7 +36,7 @@ p {
     justify-content: center;
 }
 
-.menu a{
+.menu a {
     background: #fff;
     padding: 15px 30px;
     border-radius: 4px;
@@ -76,4 +76,26 @@ p {
     padding: 15px 30px;
     border-radius: 4px;
     text-transform: uppercase;
+}
+
+.subtitulo {
+    font-size: 64px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.2);
+    text-align: right;
+    padding: 40px;
+    align-self: center;
+}
+
+.vantagens {
+    background: #fff;
+}
+
+.vantagens-item{
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.vantagens-item p{
+    grid-column: 2;
 }
