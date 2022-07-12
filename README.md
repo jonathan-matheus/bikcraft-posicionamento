@@ -3,7 +3,7 @@
 ## Imagem do site
 ![img-site](/img/img-site.png)
 
-Link para o site: https://getwolff.github.io/bikcraft-posicionamento/
+Link para o site: https://jonathan-matheus.github.io/bikcraft-posicionamento/
 
 O site foi criado como um exercício do curso "HTML e CSS para iniciantes" da origamid.
 
