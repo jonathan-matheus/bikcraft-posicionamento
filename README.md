@@ -22,6 +22,6 @@ Durante o desenvolvimento do projeto aprendi muito sobre:
 ![img-site](/img/img-site.png)
 
 ## Desafios
-A questão do posicionamento dos elementos na tela foi um belo desavio, apesar do display grid facilitar bastante essa tarefa, nem sempre era fácil alinhar os elementos da forma correta, mas após ver alguns exemplos na internet e reler bastante meu próprio código e o de outros projetos eu consegui.
+A questão do posicionamento dos elementos na tela foi um belo desafio, apesar do display grid facilitar bastante essa tarefa, nem sempre era fácil alinhar os elementos da forma correta, mas, após ver alguns exemplos na internet e reler bastante meu próprio código e o de outros projetos eu consegui.
 
 Tive que refatorar o código de modo a deixá-lo mais semântico, e usar pseudo-classes do CSS em alguns detalhes do site para diminuir o número de tags desnecessárias no HTML
